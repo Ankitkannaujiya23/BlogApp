@@ -1,2 +1,2 @@
-# BlogApp
-This app is totally based on  external api.
+# Library App
+This app is totally based on api.
